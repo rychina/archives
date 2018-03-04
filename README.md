@@ -9,5 +9,8 @@ http://wiki.eclipse.org/Category:RCP
 
 http://download.csdn.net/download/daizijian168/10209157
 
-
+组件包
 http://ftp.jaist.ac.jp/pub/eclipse/rt/rap/3.4/e4/rap-e4-3.4.0-R-20171204-1637.zip
+
+IDE
+http://mirrors.neusoft.edu.cn/eclipse/technology/epp/downloads/release/oxygen/2/eclipse-rcp-oxygen-2-win32-x86_64.zip
