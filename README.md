@@ -8,3 +8,6 @@ http://wiki.eclipse.org/Category:RCP
 
 
 http://download.csdn.net/download/daizijian168/10209157
+
+
+http://ftp.jaist.ac.jp/pub/eclipse/rt/rap/3.4/e4/rap-e4-3.4.0-R-20171204-1637.zip
