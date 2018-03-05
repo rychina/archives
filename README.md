@@ -18,3 +18,7 @@ http://mirrors.neusoft.edu.cn/eclipse/technology/epp/downloads/release/oxygen/2/
 
 
 https://www.eclipse.org/rap/developers-guide/
+
+
+E4/CSS/SWT Mapping对照表
+http://wiki.eclipse.org/E4/CSS/SWT_Mapping
